@@ -96,6 +96,13 @@ For code samples, see my other public repositories.
 
 ---
 
+## Documentation
+
+- `architecture.md` – system structure and data flow  
+- `decisions.md` – technical decisions and trade-offs  
+
+---
+
 ## Contact
 
 If you want to discuss this project or review the code privately, feel free to reach out.
